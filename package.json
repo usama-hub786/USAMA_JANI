@@ -1,12 +1,12 @@
 {
-  "name": "ALI-MD",
+  "name": "USAMA-JANI-MD",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By ALI",
+  "description": "A WhatsApp Bot Created By USAMA-JANI",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ALI-MD",
-    "stop": "pm2 stop ALI-MD",
-    "restart": "pm2 restart ALI-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name USAMA-JANI-MD",
+    "stop": "pm2 stop USAMA-JANI-MD",
+    "restart": "pm2 restart USAMA-JANI-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
